@@ -2,9 +2,9 @@
 
 ## O que é?
 
-Na tentativa de incentivar a postagem de conteúdos em pt-BR nos blogs nacionais, [Fernando Daciuk](https://twitter.com/fdaciuk) e [Willian Justen](https://twitter.com/Willian_justen) começaram a divulgar a iniciativa [#1postpordia](http://willianjusten.com.br/um-post-por-dia/).
+Na tentativa de incentivar a postagem de conteúdos em pt-BR nos blogs nacionais, [Fernando Daciuk](https://github.com/fdaciuk) e [Willian Justen](https://twitter.com/Willian_justen) começaram a divulgar a iniciativa [#1postpordia](http://willianjusten.com.br/um-post-por-dia/).
 
-Mas como sabemos, nem sempre é fácil pensar em temas e assuntos para postagens. Esse repositório foi desenvolvido para facilitar o compartilhamento de **ideias** de assuntos. 
+Mas como sabemos, nem sempre é fácil pensar em temas e assuntos para postagens. Esse repositório foi desenvolvido para facilitar o compartilhamento de **ideias** de assuntos.
 
 ## Como faço uma sugestão?
 
@@ -18,7 +18,7 @@ Mas como sabemos, nem sempre é fácil pensar em temas e assuntos para postagens
 2. Escreva "Em andamento" para que todos saibam que você vai escrever um post sobre o tema. Se possível, adicione uma previsão de quanto o post estará pronto
 3. Obviamente, mais de uma pessoa pode escrever sobre a mesma ideia
 4. Após escrever a postagem, envie o link na Issue referente
-5. Sugiro adicionar também no repotitório do [Cerebro/Artigos](https://github.com/cerebrobr/artigos)
+5. Sugiro adicionar também no repositório do [Cerebro/Artigos](https://github.com/cerebrobr/artigos)
 
 ## Licença
 
