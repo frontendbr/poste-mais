@@ -2,7 +2,7 @@
 
 ## O que é?
 
-Na tentativa de incentivar a postagem de conteúdos em pt-BR nos blogs nacionais, [Fernando Daciuk](https://github.com/fdaciuk) e [Willian Justen](https://twitter.com/Willian_justen) começaram a divulgar a iniciativa [#1postpordia](http://willianjusten.com.br/um-post-por-dia/).
+Na tentativa de incentivar a postagem de conteúdos em pt-BR nos blogs nacionais, [Fernando Daciuk](https://github.com/fdaciuk) e [Willian Justen](https://github.com/willianjusten) começaram a divulgar a iniciativa [#1postpordia](http://willianjusten.com.br/um-post-por-dia/).
 
 Mas como sabemos, nem sempre é fácil pensar em temas e assuntos para postagens. Esse repositório foi desenvolvido para facilitar o compartilhamento de **ideias** de assuntos.
 
