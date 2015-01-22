@@ -6,6 +6,10 @@ Na tentativa de incentivar a postagem de conteúdos em pt-BR nos blogs nacionais
 
 Mas como sabemos, nem sempre é fácil pensar em temas e assuntos para postagens. Esse repositório foi desenvolvido para facilitar o compartilhamento de **ideias** de assuntos.
 
+### Lembrando...
+
+Apesar do nome, a idéia do repositório é aumentar o número de postagens, não importa a frequência delas. Escreva conforme seu tempo. Mais importante do que quantidade, é a ***qualidade*** das postagens.  
+
 ## Como faço uma sugestão?
 
 1. Pense em um tema que gostaria que fosse abordado em algum blog nacional
