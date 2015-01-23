@@ -1,4 +1,4 @@
-# 1 Post por dia!
+# Poste mais!
 
 ## O que é?
 
