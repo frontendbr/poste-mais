@@ -21,7 +21,7 @@ A idéia do repositório é aumentar o número de postagens, não importa a freq
 1. Vá até a página de [Issues](https://github.com/LFeh/1-post-por-dia/issues) e escolha algum tema em aberto
 2. Escreva "Em andamento" para que todos saibam que você vai escrever um post sobre o tema. Se possível, adicione uma previsão de quanto o post estará pronto
 3. Obviamente, mais de uma pessoa pode escrever sobre a mesma ideia
-4. Após escrever a postagem, envie o link na Issue com o pedido e faça [referência aqui](https://github.com/LFeh/poste-mais/issues/35}
+4. Após escrever a postagem, envie o link na Issue com o pedido e faça [referência aqui](https://github.com/LFeh/poste-mais/issues/35)
 5. Sugiro adicionar também no repositório do [Cerebro/Artigos](https://github.com/cerebrobr/artigos)
 
 ## Licença
