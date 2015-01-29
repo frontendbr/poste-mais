@@ -8,7 +8,7 @@ Mas como sabemos, nem sempre é fácil pensar em temas e assuntos para postagens
 
 ### Lembrando...
 
-A idéia do repositório é aumentar o número de postagens, não importa a frequência delas. Escreva conforme seu tempo. Mais importante do que quantidade, é a ***qualidade*** das postagens.  
+A ideia do repositório é aumentar o número de postagens, não importa a frequência delas. Escreva conforme seu tempo. Mais importante do que quantidade, é a ***qualidade*** das postagens.  
 
 ## Como faço uma sugestão?
 
