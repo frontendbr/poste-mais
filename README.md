@@ -23,7 +23,7 @@ A ideia do repositório é aumentar o número de postagens, não importa a frequ
 3. Obviamente, mais de uma pessoa pode escrever sobre a mesma ideia
 4. Após escrever a postagem, envie o link na Issue com o pedido e [adicione o artigo aqui ](https://github.com/LFeh/poste-mais/blob/master/artigos.md)
 5. Sugiro adicionar também no repositório do [Cerebro/Artigos](https://github.com/cerebrobr/artigos)
-6. As Issues serão fechadas sempre que tiver pelo menos 1 artigo escrito, mas caso queira escrever sobre algum tema já abordado é só seguir o processo normalmente
+6. As Issues serão fechadas sempre que pelo menos 1 artigo for escrito, mas caso queira escrever sobre algum tema já abordado é só seguir o processo normalmente
 
 ## Licença
 
