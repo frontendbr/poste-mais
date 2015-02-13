@@ -104,6 +104,7 @@ __[[#48]](/issues/48) Criando módulos para o NPM__
 __[[#49]](/issues/49) Como encontrar desenvolvedores qualificados?__
 
 __[[#50]](/issues/50) Hospendando um blog na AWS__
+  - [Hospendando seu Blog Na AWS por Centavos](http://rbittencourt.com/hospedando-seu-blog-na-aws-por-centavos/)[(@robsonbittencourt)](https://github.com/robsonbittencourt)
 
 __[[#51]](/issues/51) A prostituição do AngularJS.__
 
