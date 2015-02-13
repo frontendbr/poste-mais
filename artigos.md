@@ -59,7 +59,7 @@ __[[#25]](/issues/25) testes simples de carga com a ferramenta ab__
 __[[#26]](/issues/26) Introdução ao rsync__
   - [GulpJS - Deploy com Rsync](http://blog.da2k.com.br/2015/01/27/gulpjs-deploy-com-rsync/) [(@fdaciuk)](http://github.com/fdaciuk)
 
-__[[#28]](/issues/28) Aprendendo a usar o curl__
+__[[#27]](/issues/27) Aprendendo a usar o curl__
 
 __[[#28]](/issues/28) Aprendendo bash/shell script__
 
