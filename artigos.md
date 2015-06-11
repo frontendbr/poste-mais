@@ -53,6 +53,7 @@ __[[#22]](/issues/22) Importância dos Style Guides__
 __[[#23]](/issues/23) Metodologias Ágeis na Prática__
 
 __[[#24]](/issues/24) Sobre contratação PJ__
+  - [Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto/#.VXl-YflVhBd)
 
 __[[#25]](/issues/25) testes simples de carga com a ferramenta ab__
 
