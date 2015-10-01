@@ -113,3 +113,13 @@ __[[#51]](/issues/51) A prostituição do AngularJS.__
 __[[#52]](/issues/52) Generators__
 
 __[[#54]](/issues/54) A importância de estudar CSS__ 
+
+__[[#56]](/issues/56) Sections, headers and document outline__ 
+
+__[[#57]](/issues/57) Dicas e técnicas de como elaborar um post__ 
+
+__[[#58]](/issues/58) Faculdade de Informática é bom fazer ou aprender em cursos é melhor?__ 
+
+__[[#60]](/issues/60) Phonegap + jQuery Mobile + Ajax e PHP__ 
+
+__[[#62]](/issues/62) Javascript Tests__ 
