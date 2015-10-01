@@ -28,7 +28,7 @@ __[[#12]](/issues/12) Dicas do dia a dia, workflows, bons hábitos, etc__
   - [Meu dia a dia como Dev Front End](http://willianjusten.com.br/meu-dia-a-dia-como-dev-frontend/) [(@willianjusten)](http://github.com/willianjusten)
 
 __[[#13]](/issues/13) Como ingressar no mercado de trabalho front-end__
-  - http://woliveiras.com.br/requisitos-para-vagas-front-end/ [(@woliveiras)](http://github.com/woliveiras)
+  - [Sobre os requisitos para vagas de emprego Front End (E outras áreas também) (@woliveiras)](http://woliveiras.com.br/posts/requisitos-para-vagas-front-end/ )
   - [Como me tornei um Front-End](http://www.jkury.com/como-me-tornei-um-frontend/) [(@jorgekury)](http://github.com/jorgekury)
 
 __[[#14]](/issues/14) Diferenciais entre Júnior, Pleno e Sênior.__
@@ -94,7 +94,7 @@ __[[#44]](/issues/44) Como conciliar a carreira de trabalho fechado num escritó
 
 __[[#45]](/issues/45) Contribuindo e sincronizando projetos Open Source__
   - [GitHub: Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/) [(@raphaelfabeni)](http://github.com/raphaelfabeni)
-  - [Contribuindo para projetos Open Source no Github mesmo sendo iniciante](http://woliveiras.com.br/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/) [(@woliveiras)](http://github.com/woliveiras)
+  - [Contribuindo para projetos Open Source no Github mesmo sendo iniciante](http://woliveiras.com.br/posts/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/) [(@woliveiras)](http://github.com/woliveiras)
 
 __[[#46]](/issues/46) Como contribuir com projetos Open Source sem codar?__
 
