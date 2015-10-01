@@ -91,6 +91,7 @@ __[[#42]](/issues/42) Escrever em português ou inglês__
 __[[#43]](/issues/43) Team Communication__
 
 __[[#44]](/issues/44) Como conciliar a carreira de trabalho fechado num escritório com uma imensa vontade de contribuir mais para o OpenSource?__
+  -[Aproximando seus estudos de cenários reais](http://www.felipefialho.com/blog/2015/aproximando-seus-estudos-de-cenarios-reais/#.Vg0lXXpVhBc)
 
 __[[#45]](/issues/45) Contribuindo e sincronizando projetos Open Source__
   - [GitHub: Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/) [(@raphaelfabeni)](http://github.com/raphaelfabeni)
