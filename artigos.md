@@ -45,6 +45,8 @@ __[[#19]](http://github.com/LFeh/poste-mais/issues/19) Boas práticas para nomea
 
 __[[#20]](http://github.com/LFeh/poste-mais/issues/20) Workflow com Jekyll__
   - [Perguntas e Respostas - Jekyll](http://willianjusten.com.br/perguntas-e-respostas-jekyll/) [(@willianjusten)](http://github.com/willianjusten)
+  - [Melhore o SEO do seu blog Jekyll](http://nandomoreira.me/seo-jekyll/) [(@nandomoreirame)](http://github.com/nandomoreirame)
+  - [Usando Rake tasks para automatizar publicações Jekyll](http://nandomoreira.me/rake-tasks-para-automatizar-publicacoes-jekyll/) [(@nandomoreirame)](http://github.com/nandomoreirame)
 
 __[[#21]](http://github.com/LFeh/poste-mais/issues/21) Desenvolvimento de plugin para Grunt.js__
 
