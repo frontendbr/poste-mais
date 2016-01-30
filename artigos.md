@@ -125,3 +125,5 @@ __[[#58]](http://github.com/LFeh/poste-mais/issues/58) Faculdade de Informática
 __[[#60]](http://github.com/LFeh/poste-mais/issues/60) Phonegap + jQuery Mobile + Ajax e PHP__
 
 __[[#62]](http://github.com/LFeh/poste-mais/issues/62) Javascript Tests__
+
+__[[#65]](http://github.com/LFeh/poste-mais/issues/65) Configurando Webpack para escrever JS com ES6/2015 no navegador__
