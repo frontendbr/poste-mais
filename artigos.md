@@ -127,3 +127,4 @@ __[[#60]](http://github.com/LFeh/poste-mais/issues/60) Phonegap + jQuery Mobile 
 __[[#62]](http://github.com/LFeh/poste-mais/issues/62) Javascript Tests__
 
 __[[#65]](http://github.com/LFeh/poste-mais/issues/65) Configurando Webpack para escrever JS com ES6/2015 no navegador__
+- [Configurando Webpack para escrever JS com ES6/2015 no navegador](https://github.com/matheuswd/myMag/blob/master/js/ES6%2BWebpack.md)
