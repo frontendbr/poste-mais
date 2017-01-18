@@ -28,8 +28,11 @@ A ideia do repositório é aumentar o número de postagens, não importa a frequ
 4. Após escrever a postagem, envie o link na Issue com o pedido e [adicione o artigo aqui ](https://github.com/LFeh/poste-mais/blob/master/artigos.md)
 5. Sugiro adicionar também no repositório do [Cerebro/Artigos](https://github.com/cerebrobr/artigos) 
  
-________
-#### Repositórios da Front-End Brasil
+## Licença
+
+[MIT](LICENSE.md) &copy; FrontendBR
+
+## Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
@@ -39,3 +42,4 @@ ________
 - [Open Source](https://github.com/frontendbr/open-source)
 - [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
+
