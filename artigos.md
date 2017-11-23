@@ -128,3 +128,6 @@ __[[#62]](http://github.com/LFeh/poste-mais/issues/62) Javascript Tests__
 
 __[[#65]](http://github.com/LFeh/poste-mais/issues/65) Configurando Webpack para escrever JS com ES6/2015 no navegador__
 - [Configurando Webpack para escrever JS com ES6/2015 no navegador](https://github.com/matheuswd/myMag/blob/master/js/ES6%2BWebpack.md)
+
+__[[#76]](https://github.com/frontendbr/poste-mais/issues/76) REST API com Node.js, Express e MongoDB__
+- [REST API com Node.js, Express e MongoDB](https://medium.com/@thiagoluiz.nunes/rest-api-com-node-js-express-and-mongodb-3967c2cb25b7)
