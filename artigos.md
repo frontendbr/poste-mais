@@ -100,6 +100,7 @@ __[[#45]](http://github.com/LFeh/poste-mais/issues/45) Contribuindo e sincroniza
   - [Contribuindo para projetos Open Source no Github mesmo sendo iniciante](http://woliveiras.com.br/posts/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/) [(@woliveiras)](http://github.com/woliveiras)
 
 __[[#46]](http://github.com/LFeh/poste-mais/issues/46) Como contribuir com projetos Open Source sem codar?__
+  - [Como contribuir com projetos open source sem codar?](https://medium.com/openschoolbr/como-contribuir-com-projetos-open-source-sem-codar-87ea11c8f1dd) ([@kvnol](https://github.com/kvnol))
 
 __[[#47]](http://github.com/LFeh/poste-mais/issues/47) Harpjs__
 
@@ -127,7 +128,10 @@ __[[#60]](http://github.com/LFeh/poste-mais/issues/60) Phonegap + jQuery Mobile 
 __[[#62]](http://github.com/LFeh/poste-mais/issues/62) Javascript Tests__
 
 __[[#65]](http://github.com/LFeh/poste-mais/issues/65) Configurando Webpack para escrever JS com ES6/2015 no navegador__
-- [Configurando Webpack para escrever JS com ES6/2015 no navegador](https://github.com/matheuswd/myMag/blob/master/js/ES6%2BWebpack.md)
+  - [Configurando Webpack para escrever JS com ES6/2015 no navegador](https://github.com/matheuswd/myMag/blob/master/js/ES6%2BWebpack.md)
+
+__[[#73]](https://github.com/frontendbr/poste-mais/issues/73) Post como não ser um Bom Front-end__
+  - [Como não ser um bom front-end](https://medium.com/@kvnol/como-n%C3%A3o-ser-um-bom-front-end-bae2ce7215fb) ([@kvnol](https://github.com/kvnol))
 
 __[[#76]](https://github.com/frontendbr/poste-mais/issues/76) REST API com Node.js, Express e MongoDB__
 - [REST API com Node.js, Express e MongoDB](https://medium.com/@thiagoluiz.nunes/rest-api-com-node-js-express-and-mongodb-3967c2cb25b7)
