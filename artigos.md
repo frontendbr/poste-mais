@@ -135,3 +135,6 @@ __[[#73]](https://github.com/frontendbr/poste-mais/issues/73) Post como não ser
 
 __[[#76]](https://github.com/frontendbr/poste-mais/issues/76) REST API com Node.js, Express e MongoDB__
 - [REST API com Node.js, Express e MongoDB](https://medium.com/@thiagoluiz.nunes/rest-api-com-node-js-express-and-mongodb-3967c2cb25b7)
+
+__[[#81]](https://github.com/frontendbr/poste-mais/issues/81) Expressões Regulares
+- [Tutorial sobre Expressões Regulares](https://maykon-oliveira.github.io/regex-tutorial/)
