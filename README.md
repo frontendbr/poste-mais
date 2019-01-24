@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
-<h1 align="center">Poste mais!</h1>
+<h1 align="center">Poste Mais!</h1>
 <p align="center">:pencil2: Sugestões de temas e assuntos para postagens.</p>
 
 ## O que é?
@@ -37,8 +37,10 @@ A ideia do repositório é aumentar o número de postagens, não importa a frequ
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
 - [Vagas](https://github.com/frontendbr/vagas)
-- [Doe um livro](https://github.com/frontendbr/doe-um-livro)
-- [Poste mais!](https://github.com/frontendbr/poste-mais)
+- [Me Contrata](https://github.com/frontendbr/me-contrata)
+- [Compra e Venda](https://github.com/frontendbr/compra-e-venda)
+- [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
+- [Poste Mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
 - [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
