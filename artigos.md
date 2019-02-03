@@ -138,3 +138,6 @@ __[[#76]](https://github.com/frontendbr/poste-mais/issues/76) REST API com Node.
 
 __[[#81]](https://github.com/frontendbr/poste-mais/issues/81) Expressões Regulares
 - [Tutorial sobre Expressões Regulares](https://maykon-oliveira.github.io/regex-tutorial/)
+
+__[[#84]](https://github.com/frontendbr/poste-mais/issues/76) Criando avatar upload file utilizando HTML5/CSS3__
+- [Criando avatar upload file utilizando HTML5/CSS3](https://medium.com/@thiagoluiz.nunes/criando-avatar-upload-file-utilizando-html5-css3-c4dcf623d985)
