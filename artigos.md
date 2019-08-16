@@ -142,5 +142,5 @@ __[[#81]](https://github.com/frontendbr/poste-mais/issues/81) Expressões Regula
 __[[#84]](https://github.com/frontendbr/poste-mais/issues/76) Criando avatar upload file utilizando HTML5/CSS3__
 - [Criando avatar upload file utilizando HTML5/CSS3](https://medium.com/@thiagoluiz.nunes/criando-avatar-upload-file-utilizando-html5-css3-c4dcf623d985)
 
-__[[#85]](https://github.com/frontendbr/poste-mais/issues/76) Rotação de elementos com a propriedade transform e com clip-path__
+__[[#89]](https://github.com/frontendbr/poste-mais/issues/76) Rotação de elementos com a propriedade transform e com clip-path__
 - [Rotação de elementos com a propriedade transform e com clip-path](https://medium.com/jaguaribetech/rota%C3%A7%C3%A3o-de-elementos-d3cf2b1e5468)
