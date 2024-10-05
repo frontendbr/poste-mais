@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="https://raw.githubusercontent.com/frontendbr/brand/main/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Poste Mais!</h1>
 <p align="center">:pencil2: Sugestões de temas e assuntos para postagens.</p>
